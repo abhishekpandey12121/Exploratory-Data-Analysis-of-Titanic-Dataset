@@ -64,7 +64,7 @@ Final summary of findings with important business and practical interpretations.
 
 🚀 How to Run:
 Clone this repository:
-git clone https://github.com/<your-username>/Titanic-EDA.git
+git clone https://github.com/abhishekpandey12121/Titanic-EDA.git
 
 Open Titanic_EDA.ipynb in Jupyter Notebook.
 
